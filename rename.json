@@ -1,0 +1,7 @@
+{
+  "app/.intermediate/*": false,
+  "app/dist/*": false,
+  "doc/app/*": false,
+  "doc/srv/*": false,
+  "srv/pem/*": false
+}
